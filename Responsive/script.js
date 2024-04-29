@@ -44,16 +44,16 @@ gsap.from(".search", 1, {
 // Animation for image
 const images = [
   // Add more image URLs as needed
-  "./Media/LP_watch1.png",
-  "./Media/LP_watch2.png",
-  "./Media/LP_watch3.png",
-  "./Media/LP_watch4.png",
-  "./Media/LP_watch5.png",
-  "./Media/LP_watch6.png",
-  "./Media/LP_watch7.png",
-  "./Media/LP_watch8.png",
-  "./Media/LP_watch9.png",
-  "./Media/LP_watch10.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417026/minimalist_watch/jo4ykm87a9ppvusgnl2d.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417024/minimalist_watch/bsnlcqjveg6bndnbw6ie.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417025/minimalist_watch/iwwqeixkrbtrwfchiemy.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417024/minimalist_watch/dcepjiio25npyfk1ft3j.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417024/minimalist_watch/pfinhzrfj9bm8smdugch.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417024/minimalist_watch/k5q4c0eekcony4vmdfry.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417023/minimalist_watch/dehimlayutwj9sldhybc.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417023/minimalist_watch/rbtxr9wi4wvnwfly2hc9.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417023/minimalist_watch/hyzfc696qsuebakhq9km.png",
+  "https://res.cloudinary.com/daffqurhi/image/upload/v1714417023/minimalist_watch/muwn0cjbevudx91fier9.png",
 ];
 
 let currentIndex = 0;
